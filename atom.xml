@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Hongyi Wu(吴鸿毅)]]></title>
-  <link href="http://wuhongyi.github.io/atom.xml" rel="self"/>
-  <link href="http://wuhongyi.github.io/"/>
-  <updated>2015-08-12T14:13:42+08:00</updated>
-  <id>http://wuhongyi.github.io/</id>
+  <link href="http://wuhongyi.github.com/atom.xml" rel="self"/>
+  <link href="http://wuhongyi.github.com/"/>
+  <updated>2015-08-12T14:32:44+08:00</updated>
+  <id>http://wuhongyi.github.com/</id>
   <author>
     <name><![CDATA[Hongyi Wu(吴鸿毅)]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[吴鸿毅博客测试]]></title>
-    <link href="http://wuhongyi.github.io/blog/2015/08/10/wuhongyi/"/>
+    <link href="http://wuhongyi.github.com/blog/2015/08/10/wuhongyi/"/>
     <updated>2015-08-10T20:30:00+08:00</updated>
-    <id>http://wuhongyi.github.io/blog/2015/08/10/wuhongyi</id>
+    <id>http://wuhongyi.github.com/blog/2015/08/10/wuhongyi</id>
     <content type="html"><![CDATA[<h1>一级标题测试</h1>
 
 <h2>二级标题测试</h2>

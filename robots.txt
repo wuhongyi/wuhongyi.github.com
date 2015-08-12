@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://wuhongyi.github.io/sitemap.xml 
+Sitemap: http://wuhongyi.github.com/sitemap.xml 
